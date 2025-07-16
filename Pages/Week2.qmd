@@ -6,3 +6,26 @@ editor: source
 :::{.callout-important}
 Please note that this page contains numerous links and download buttons, which may take a few minutes to load completely.
 :::
+
+
+## June 23$^{rd}$
+
+
+## June 24$^{th}$
+
+
+## June 25$^{th}$
+
+
+## June 26$^{th}$
+
+
+## June 27$^{th}$
+
+### Data Visualization with `ggplot2`
+
+This lecture was conducted by Shelby Golden, M.S., one of the data scientists from the Yale School of Public Health's [Data Science and Data Equity](https://ysph.yale.edu/public-health-research-and-practice/research-centers-and-initiatives/public-health-data-science-and-data-equity/) (DSDE) program.
+
+To access the codebase, annotated slide deck, handout, and data used by participants in the lecture, users need to download the `*.zip` file linked below. Solutions to the lecture discussions and challenge questions are also included in a separate `*.R` file. After downloading and unzipping the file, please review the `README.md` for details on the directory contents and instructions on how to establish a GitHub repository. It is recommended to view the `README.md` by rendering it using the RStudio IDE for R.
+
+{{< downloadthis "Week2_Materials/June 27th 2024_Data Visualization with ggplot2_All Lecture Content_07.16.2025.zip" label="All Lecture Content" id=download_btn >}}

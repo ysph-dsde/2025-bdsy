@@ -3,18 +3,18 @@ project:
   output-dir: docs
   
 website:
-  title: "Morning Lecture Materials"
+  title: "Lectures and Projects"
   page-navigation: true
   back-to-top-navigation: true
   bread-crumbs: false
   favicon: Images/DSDE-Social-Media-Profile.png
   search: false
-  repo-url: https://github.com/ysph-dsde/bdsy-phm
-  issue-url: https://github.com/ysph-dsde/bdsy-phm/issues
+  repo-url: https://github.com/ysph-dsde/2025-bdsy
+  issue-url: https://github.com/ysph-dsde/2025-bdsy/issues
   repo-actions: [source, issue]
   navbar:
     left:
-      - text: "Materials"
+      - text: "Lecture Materials"
         menu:
           - text: "Week 1"
             href: Pages/Week1.qmd
@@ -28,9 +28,14 @@ website:
             href: Pages/Week5.qmd
           - text: "Week 6"
             href: Pages/Week6.qmd
+      - text: "Afternoon Groups"
+        menu:
+          - text: "Public Health Modeling"
+            href: https://ysph-dsde.github.io/bdsy-phm/
+            target: _blank
     right:
       - text: 2025 BDSY
-        href: https://ysph.yale.edu/school-of-public-health/special-programs/big-data-summer-immersion-at-yale/
+        href: https://ysph-dsde.github.io/bdsy-phm/
         target: _blank
   page-footer:
     background: light 
