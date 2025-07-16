@@ -2,23 +2,58 @@
   {
     "objectID": "Pages/Week5.html",
     "href": "Pages/Week5.html",
-    "title": "Morning Lecture Materials",
+    "title": "Lectures and Projects",
     "section": "",
     "text": "Important\n\n\n\nPlease note that this page contains numerous links and download buttons, which may take a few minutes to load completely.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Pages/Week6.html",
     "href": "Pages/Week6.html",
-    "title": "Morning Lecture Materials",
+    "title": "Lectures and Projects",
     "section": "",
     "text": "Important\n\n\n\nPlease note that this page contains numerous links and download buttons, which may take a few minutes to load completely.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Pages/Week2.html",
     "href": "Pages/Week2.html",
-    "title": "Morning Lecture Materials",
+    "title": "Lectures and Projects",
     "section": "",
-    "text": "Important\n\n\n\nPlease note that this page contains numerous links and download buttons, which may take a few minutes to load completely.\n\n\n\n\n\n Back to top"
+    "text": "Important\n\n\n\nPlease note that this page contains numerous links and download buttons, which may take a few minutes to load completely."
+  },
+  {
+    "objectID": "Pages/Week2.html#june-23rd",
+    "href": "Pages/Week2.html#june-23rd",
+    "title": "Lectures and Projects",
+    "section": "June 23^{rd}",
+    "text": "June 23^{rd}"
+  },
+  {
+    "objectID": "Pages/Week2.html#june-24th",
+    "href": "Pages/Week2.html#june-24th",
+    "title": "Lectures and Projects",
+    "section": "June 24^{th}",
+    "text": "June 24^{th}"
+  },
+  {
+    "objectID": "Pages/Week2.html#june-25th",
+    "href": "Pages/Week2.html#june-25th",
+    "title": "Lectures and Projects",
+    "section": "June 25^{th}",
+    "text": "June 25^{th}"
+  },
+  {
+    "objectID": "Pages/Week2.html#june-26th",
+    "href": "Pages/Week2.html#june-26th",
+    "title": "Lectures and Projects",
+    "section": "June 26^{th}",
+    "text": "June 26^{th}"
+  },
+  {
+    "objectID": "Pages/Week2.html#june-27th",
+    "href": "Pages/Week2.html#june-27th",
+    "title": "Lectures and Projects",
+    "section": "June 27^{th}",
+    "text": "June 27^{th}\n\nData Visualization with ggplot2\nThis lecture was conducted by Shelby Golden, M.S., one of the data scientists from the Yale School of Public Health’s Data Science and Data Equity (DSDE) program.\nTo access the codebase, annotated slide deck, handout, and data used by participants in the lecture, users need to download the *.zip file linked below. Solutions to the lecture discussions and challenge questions are also included in a separate *.R file. After downloading and unzipping the file, please review the README.md for details on the directory contents and instructions on how to establish a GitHub repository. It is recommended to view the README.md by rendering it using the RStudio IDE for R.\n All Lecture Content"
   },
   {
     "objectID": "index.html",
@@ -37,21 +72,56 @@
   {
     "objectID": "Pages/Week1.html",
     "href": "Pages/Week1.html",
-    "title": "Morning Lecture Materials",
+    "title": "Lectures and Projects",
     "section": "",
-    "text": "Important\n\n\n\nPlease note that this page contains numerous links and download buttons, which may take a few minutes to load completely.\n\n\n\n\n\n Back to top"
+    "text": "Important\n\n\n\nPlease note that this page contains numerous links and download buttons, which may take a few minutes to load completely."
+  },
+  {
+    "objectID": "Pages/Week1.html#june-16th",
+    "href": "Pages/Week1.html#june-16th",
+    "title": "Lectures and Projects",
+    "section": "June 16^{th}",
+    "text": "June 16^{th}\n\nIntroduction to Programming in R and the tidyverse\nThis lecture was conducted by Shelby Golden, M.S., one of the data scientists from the Yale School of Public Health’s Data Science and Data Equity (DSDE) program.\nTo access the codebase, annotated slide deck, handout, and data used by participants in the lecture, users need to download the *.zip file linked below. Solutions to the lecture discussions and challenge questions are also included in a separate *.R file. After downloading and unzipping the file, please review the README.md for details on the directory contents and instructions on how to establish a GitHub repository. It is recommended to view the README.md by rendering it using the RStudio IDE for R.\n All Lecture Content"
+  },
+  {
+    "objectID": "Pages/Week1.html#june-17th",
+    "href": "Pages/Week1.html#june-17th",
+    "title": "Lectures and Projects",
+    "section": "June 17^{th}",
+    "text": "June 17^{th}"
+  },
+  {
+    "objectID": "Pages/Week1.html#june-18th",
+    "href": "Pages/Week1.html#june-18th",
+    "title": "Lectures and Projects",
+    "section": "June 18^{th}",
+    "text": "June 18^{th}"
+  },
+  {
+    "objectID": "Pages/Week1.html#june-19th",
+    "href": "Pages/Week1.html#june-19th",
+    "title": "Lectures and Projects",
+    "section": "June 19^{th}",
+    "text": "June 19^{th}"
+  },
+  {
+    "objectID": "Pages/Week1.html#june-20th",
+    "href": "Pages/Week1.html#june-20th",
+    "title": "Lectures and Projects",
+    "section": "June 20^{th}",
+    "text": "June 20^{th}"
   },
   {
     "objectID": "Pages/Week3.html",
     "href": "Pages/Week3.html",
-    "title": "Morning Lecture Materials",
+    "title": "Lectures and Projects",
     "section": "",
     "text": "Important\n\n\n\nPlease note that this page contains numerous links and download buttons, which may take a few minutes to load completely.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Pages/Week4.html",
     "href": "Pages/Week4.html",
-    "title": "Morning Lecture Materials",
+    "title": "Lectures and Projects",
     "section": "",
     "text": "Important\n\n\n\nPlease note that this page contains numerous links and download buttons, which may take a few minutes to load completely.\n\n\n\n\n\n Back to top"
   }
