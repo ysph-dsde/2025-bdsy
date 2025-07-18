@@ -39,7 +39,7 @@
     "href": "Pages/Week2.html#june-25th",
     "title": "Lectures and Projects",
     "section": "June 25^{th}",
-    "text": "June 25^{th}"
+    "text": "June 25^{th}\n\nPrediction for Beginners\nThis lecture was conducted by Sean McGrath, Ph.D., a postdoctoral associate in the Department of Biostatistics at the Yale School of Public Health. Exercises in the lecture involve the datasets “data-prediction-exercise.csv” and “data-prediction-exercise-external.csv”\nView or download the lecture slide deck: Prediction for Beginners."
   },
   {
     "objectID": "Pages/Week2.html#june-26th",
@@ -56,20 +56,6 @@
     "text": "June 27^{th}\n\nData Visualization with ggplot2\nThis lecture was conducted by Shelby Golden, M.S., one of the data scientists from the Yale School of Public Health’s Data Science and Data Equity (DSDE) program.\nTo access the codebase, annotated slide deck, handout, and data used by participants in the lecture, users need to download the *.zip file linked below. Solutions to the lecture discussions and challenge questions are also included in a separate *.R file. After downloading and unzipping the file, please review the README.md for details on the directory contents and instructions on how to establish a GitHub repository. It is recommended to view the README.md by rendering it using the RStudio IDE for R.\n All Lecture Content"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Welcome to our project on modeling pneumococcal disease, a leading cause of death in children under 5 worldwide. Public health is an interdisciplinary field that measures and tracks disease trends and promotes health through policy and treatment interventions. We will investigate the impact of pneumococcal vaccines and the phenomenon of serotype replacement, where uncommon serotypes variations not targeted by the therapy flourish and take over as the predominant causes of disease after vaccination. Using data from infectious disease surveillance systems and statistical methods such as time series analysis, hierarchical modeling, and serotype clustering and association, we aim to understand serotype replacement and its implications. Our analyses will be conducted in R.\nOur objectives for this course will be to:\nWe will accomplish these objectives using data from national and multinational infectious disease surveillance systems, and the following statistical methods:\nFull project statement"
-  },
-  {
-    "objectID": "index.html#purpose-of-this-site",
-    "href": "index.html#purpose-of-this-site",
-    "title": "Welcome!",
-    "section": "Purpose of This Site",
-    "text": "Purpose of This Site\nSharing code-based materials poses a challenging technical problem that Canvas is not well suited to handle. Therefore, we have created an instructor GitHub webpage where we can effectively create, communicate, and distribute course materials. This platform provides students with the most current information in an easily accessible format and allows us, the instructors, to distribute materials more efficiently.\nOn this site, you will find:\n\nA schedule of important project goals and assignment dates.\nWebpages with full weekly hands-on demonstrations of concepts.\nWeekly codebases for students to apply in their own projects, reflecting that week’s concepts.\nLinks to the subgroup dataset zip files, the associated paper, and brief descriptions of them.\nLinks to other course materials, including blank slide decks, poster layouts, slides, and more.\n\n\n\n    About the Instructors\n\n\n\n\n\n  \n  People Tiles\n  \n  \n\n\n  \n    \n      \n        \n          \n            \n          \n          \n            Stephanie Perniciaro, PhD, MPH\n            Associate Research Scientist in Epidemiology (Microbial Diseases)\n\n            \n              \n                \n                  \n                \n                \n                \n                  \n                \n                \n                  \n                \n                \n                  \n                \n              \n            \n            The surveillance and epidemiology of vaccine-preventable respiratory diseases, especially pneumococcal disease, is my passion. I want to determine how to efficiently and effectively protect populations from pneumococcal disease, both invasive (bacteremia, meningitis) and non-invasive (otitis media, non-bacteremic pneumonia). I'm interested in respiratory disease surveillance, serotype replacement, antibiotic resistance, vulnerable populations, vaccine schedules, vaccine advocacy, and overcoming vaccine hesitancy.\n\n            \n              \n                Email: stephanie.perniciaro@yale.edu\n              \n              \n            \n            \n          \n        \n      \n        \n          \n            \n          \n          \n            Shelby Golden, MS\n            Data Scientist I\n\n            \n              \n                \n                  \n                \n                \n                  \n                \n                \n                  \n                \n                \n                  \n                \n                \n                  \n                \n              \n            \n            With my work I aim to contribute to impactful projects that advance scientific understanding by utilizing strong analytical skills and a deep commitment to reliable data-driven decision-making. \n\n\nMy background is in computational mathematics, molecular biology, and biochemistry. I hold a Master of Science in Applied Computational Mathematics from Johns Hopkins University and dual Bachelor of Science degrees in Molecular, Cellular, Developmental Biology and Biochemistry, alongside a minor in Engineering in Applied Mathematics from the University of Colorado at Boulder.\n\n            \n              \n                Email: shelby.golden@yale.edu\n              \n              \n            \n            \n          \n        \n      \n    \n  \n\n\n\nNo matching items"
-  },
-  {
     "objectID": "Pages/Week1.html",
     "href": "Pages/Week1.html",
     "title": "Lectures and Projects",
@@ -81,14 +67,14 @@
     "href": "Pages/Week1.html#june-16th",
     "title": "Lectures and Projects",
     "section": "June 16^{th}",
-    "text": "June 16^{th}\n\nIntroduction to Programming in R and the tidyverse\nThis lecture was conducted by Shelby Golden, M.S., one of the data scientists from the Yale School of Public Health’s Data Science and Data Equity (DSDE) program.\nTo access the codebase, annotated slide deck, handout, and data used by participants in the lecture, users need to download the *.zip file linked below. Solutions to the lecture discussions and challenge questions are also included in a separate *.R file. After downloading and unzipping the file, please review the README.md for details on the directory contents and instructions on how to establish a GitHub repository. It is recommended to view the README.md by rendering it using the RStudio IDE for R.\n All Lecture Content"
+    "text": "June 16^{th}"
   },
   {
     "objectID": "Pages/Week1.html#june-17th",
     "href": "Pages/Week1.html#june-17th",
     "title": "Lectures and Projects",
     "section": "June 17^{th}",
-    "text": "June 17^{th}"
+    "text": "June 17^{th}\n\nIntroduction to Programming in R and the tidyverse\nThis lecture was conducted by Shelby Golden, M.S., one of the data scientists from the Yale School of Public Health’s Data Science and Data Equity (DSDE) program.\nTo access the codebase, annotated slide deck, handout, and data used by participants in the lecture, users need to download the *.zip file linked below. Solutions to the lecture discussions and challenge questions are also included in a separate *.R file. After downloading and unzipping the file, please review the README.md for details on the directory contents and instructions on how to establish a GitHub repository. It is recommended to view the README.md by rendering it using the RStudio IDE for R.\n All Lecture Content \n\n\nProbability\nThis lecture was conducted by Sean McGrath, Ph.D., a postdoctoral associate in the Department of Biostatistics at the Yale School of Public Health.\nView or download the lecture slide deck: Probability.\n\n\nBasic Statistics\nThis lecture was conducted by Sean McGrath, Ph.D., a postdoctoral associate in the Department of Biostatistics at the Yale School of Public Health.\nView or download the lecture slide deck: Basic Statistics."
   },
   {
     "objectID": "Pages/Week1.html#june-18th",
