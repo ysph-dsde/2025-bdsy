@@ -16,6 +16,11 @@ Please note that this page contains numerous links and download buttons, which m
 
 ## June 25$^{th}$
 
+### Prediction for Beginners
+ 
+This lecture was conducted by [Sean McGrath, Ph.D.](https://stmcg.github.io/), a postdoctoral associate in the Department of Biostatistics at the Yale School of Public Health. Exercises in the lecture involve the datasets “data-prediction-exercise.csv” and “data-prediction-exercise-external.csv”
+
+View or download the lecture slide deck: [_Prediction for Beginners_](Week2_Materials/June 25th 2025_Prediction-SM.pdf).
 
 ## June 26$^{th}$
 
@@ -24,8 +29,8 @@ Please note that this page contains numerous links and download buttons, which m
 
 ### Data Visualization with `ggplot2`
 
-This lecture was conducted by Shelby Golden, M.S., one of the data scientists from the Yale School of Public Health's [Data Science and Data Equity](https://ysph.yale.edu/public-health-research-and-practice/research-centers-and-initiatives/public-health-data-science-and-data-equity/) (DSDE) program.
+This lecture was conducted by [Shelby Golden, M.S.](https://www.linkedin.com/in/shelby-golden/), one of the data scientists from the Yale School of Public Health's [Data Science and Data Equity](https://ysph.yale.edu/public-health-research-and-practice/research-centers-and-initiatives/public-health-data-science-and-data-equity/) (DSDE) program.
 
 To access the codebase, annotated slide deck, handout, and data used by participants in the lecture, users need to download the `*.zip` file linked below. Solutions to the lecture discussions and challenge questions are also included in a separate `*.R` file. After downloading and unzipping the file, please review the `README.md` for details on the directory contents and instructions on how to establish a GitHub repository. It is recommended to view the `README.md` by rendering it using the RStudio IDE for R.
 
-{{< downloadthis "Week2_Materials/June 27th 2024_Data Visualization with ggplot2_All Lecture Content_07.16.2025.zip" label="All Lecture Content" id=download_btn >}}
+{{< downloadthis "Week2_Materials/June 27th 2025_Data Visualization with ggplot2_All Lecture Content_07.16.2025.zip" label="All Lecture Content" id=download_btn >}}

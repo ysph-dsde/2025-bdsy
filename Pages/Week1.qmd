@@ -9,16 +9,29 @@ Please note that this page contains numerous links and download buttons, which m
 
 ## June 16$^{th}$
 
+
+## June 17$^{th}$
+
 ### Introduction to Programming in R and the `tidyverse`
 
-This lecture was conducted by [Shelby Golden, M.S.](https://ysph.yale.edu/profile/shelby-golden/), one of the data scientists from the Yale School of Public Health's [Data Science and Data Equity](https://ysph.yale.edu/public-health-research-and-practice/research-centers-and-initiatives/public-health-data-science-and-data-equity/) (DSDE) program.
+This lecture was conducted by [Shelby Golden, M.S.](https://www.linkedin.com/in/shelby-golden/), one of the data scientists from the Yale School of Public Health's [Data Science and Data Equity](https://ysph.yale.edu/public-health-research-and-practice/research-centers-and-initiatives/public-health-data-science-and-data-equity/) (DSDE) program.
 
 To access the codebase, annotated slide deck, handout, and data used by participants in the lecture, users need to download the `*.zip` file linked below. Solutions to the lecture discussions and challenge questions are also included in a separate `*.R` file. After downloading and unzipping the file, please review the `README.md` for details on the directory contents and instructions on how to establish a GitHub repository. It is recommended to view the `README.md` by rendering it using the RStudio IDE for R.
 
-{{< downloadthis "Week1_Materials/June 17th 2024_Introduction to Programming in R and the tidyverse_All Lecture Content_06.17.2025.zip" label="All Lecture Content" id=download_btn >}}
+{{< downloadthis "Week1_Materials/June 17th 2025_Introduction to Programming in R and the tidyverse_All Lecture Content_06.17.2025.zip" label="All Lecture Content" id=download_btn >}}
 
 
-## June 17$^{th}$
+### Probability
+
+This lecture was conducted by [Sean McGrath, Ph.D.](https://stmcg.github.io/), a postdoctoral associate in the Department of Biostatistics at the Yale School of Public Health.
+
+View or download the lecture slide deck: [_Probability_](Week1_Materials/June 17th 2025_Probability-SM.pdf).
+
+
+### Basic Statistics
+This lecture was conducted by [Sean McGrath, Ph.D.](https://stmcg.github.io/), a postdoctoral associate in the Department of Biostatistics at the Yale School of Public Health.
+
+View or download the lecture slide deck: [_Basic Statistics_](Week1_Materials/June 17th 2025_Basic Statistics-SM.pdf).
 
 
 ## June 18$^{th}$
